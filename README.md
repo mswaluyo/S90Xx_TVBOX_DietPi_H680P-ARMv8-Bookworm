@@ -1,0 +1,2 @@
+# S90Xx_TVBOX_DietPi_H680P-ARMv8-Bookworm
+DietPi for STB H680P-S90Xx
